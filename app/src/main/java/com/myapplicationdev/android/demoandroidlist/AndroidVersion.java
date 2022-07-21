@@ -27,6 +27,6 @@ public class AndroidVersion {
 
     @Override
     public String toString() {
-        return  name  + ": " + version ;
+        return  name  + ": " + version +  name ;
     }
 }
